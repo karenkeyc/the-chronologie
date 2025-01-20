@@ -62,7 +62,7 @@ export const ModalGallery = ({ handleClose, show }) => {
               <img height="40" src={img8} alt="Cockpit Project" />
             </div>
             <div className="logo-container__1">
-              <img height="70" src={img7} alt="nIMS" />
+              <img height="70" src={img7} alt="NIMS" />
             </div>
           </div>
         </div>
